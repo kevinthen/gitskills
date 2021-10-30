@@ -5,4 +5,8 @@ this a branch test again
 
 add something in branch dev1: this is a tesst to add something in branch dev1
 
-Tom AND Jerry
+<<<<<<< HEAD
+Tom & Jerry
+=======
+Tom & Jerry
+>>>>>>> feature1
